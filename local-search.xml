@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>科技茶坛002：珠联璧合！Visual Studio Code的安装与配置</title>
+    <link href="/3_%5B%E7%A7%91%E6%8A%80%E8%8C%B6%E5%9D%9B002%5D/"/>
+    <url>/3_%5B%E7%A7%91%E6%8A%80%E8%8C%B6%E5%9D%9B002%5D/</url>
+    
+    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p><br/>千里之行，始于足下。<br/><br>无论一个程序员的编程水平有多么高超，<br/><br>他的编程学习都从他的第一行代码开始。<br/><br>相比于上世纪的八九十年代的编程学习者，<br/><br>不得不说现在的编程学习者实在是太幸福了！<br/><br>当今编程基础教育层林尽染，编程教学参考百花齐放，<br/><br>也难怪名家都说：全民编程的时代已然来临了！<br/><br/></p><h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p><br/>Visual Studio Code，简称VSC，<br/><br>是一款由微软公司开发并跨平台的免费源代码编辑器。<br/><br>该软件支持语法高亮、代码自动补全、查看定义等功能，<br/><br>除此之外甚至其还内置了命令行工具和Git版本控制系统，<br/><br>同时，用户可以更改主题和键盘快捷方式实现个性化设置，<br/><br>也可通过内置的扩展程序商店安装扩展以拓展软件功能。<br/><br>实在是单人单撸，多人运动，阖家删库跑路的必备软件！<br/><br><img src="/img/posts/post3_1.jpeg"><br>所以，别苦着个脸了，现在来开始我们的安装吧！<br/><br/></p><h2 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h2><p><br/>首先在安装前，你需要冷静下来思考这样一个问题：<br/><br>VSC跟学校推荐的VS、DEV、CB这些软件的区别是什么？<br/><br/><br>显然，你会发现VSC是一个代码编辑器，而VS等是集成式开发环境…<br/><br>所谓集成开发环境，是一种辅助程序开发人员开发软件的应用软件，<br/><br>它可以辅助你编写源代码文本，并且帮你编译打包生成可用的程序。<br/><br>而一般来说，集成开发环境大都会包含有代码编辑器以及编译器，<br/><br>所以当你下载了VSC之后，你还需要配置好你的编译器，猛男落泪！<br/><br/><br>但是阁下，和网上那群虫豸配置教程在一起，怎么能安装好VSC啊？<br/><br>所以我自己搞了个整合包，它可以帮助你快速配置好C/C++的开发环境！<br/><br>你只需要直接下载，然后就根据整合包内的教程安装VSC并配置开发环境了！<br/><br>下载链接：<a href="https://share.weiyun.com/HRdnVSTx">https://share.weiyun.com/HRdnVSTx</a><br/><br/><br/></p><p>获得整合包后，可将其其解压至任意位置，<br/><br>之后请右键点击install.bat文件使其运行，<br/><br>若运行无误，敲击回车即可退出。<br/><br>但是，请事先移除Program File中的mingw64，<br/><br>否则就会出现这样的离谱提示！<br/><br><img src="/img/posts/post3_2.png"></p><p>之后点击VSCodeSetup.exe文件，<br/><br>同意协议，选择默认路径，<br/><br>之后将Other项全部勾选！<br/><br>完成安装后启动VSC，<br/><br>点击左侧Extensions,<br/><br>搜索并安装以下插件：<br/><br>C/C++<br/><br>Code Runner<br/><br>Chinese (Simplified) Language Pack<br/><br>然后点击右下显示的”Yes”，重新加载即可实现切换语言。<br/><br><img src="/img/posts/post3_3.png"></p><p>最后请在纯英语路径下创建将要编写c/cpp的文件夹（如 c:\projects），<br/><br>否则，文件在运行或者进行debug的时候会报错，极其影响体验，<br/><br>并将整合包中Demo对应的c/cpp里的.vscode文件夹复制到此处，<br/><br>创建用于编写语言的文件夹（如 projects）内，<br/><br><img src="/img/posts/post3_4.png"><br>最后右键该文件夹（如 projects），Open with Code，<br/><br>即可开始你的编程!<br/></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>科技茶坛001：登高望远！Clash for Windows的安装</title>
+    <link href="/2_%5B%E7%A7%91%E6%8A%80%E8%8C%B6%E5%9D%9B001%5D/"/>
+    <url>/2_%5B%E7%A7%91%E6%8A%80%E8%8C%B6%E5%9D%9B001%5D/</url>
+    
+    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p><br/>信息是可以由音讯、消息、通讯系统传输和处理的对象，<br/><br>因此，我们可以将信息泛指为人类社会传播的一切内容。<br/><br>怒涛卷霜雪，在人类发展历史上的一次次技术革命当中，<br/><br>信息技术也得到了长足发展，我们生活在信息的海洋中！<br/><br/><br>准确的信息带来智慧，荒谬的信息带来无知。<br/><br>对于当今我国正处在增长见识阶段的大学生群体而言，<br/><br>学会获取高时效、高价值、高可信的学术信息至关重要。<br/><br/><br>然而大部分学生的信息来源被限制在知乎、知网等平台，<br/><br>并且大部分学校的校内VPN仅具有校内网的访问能力，<br/><br>所以此时广为人知的“翻墙软件”就成为了我们的好帮手！<br/><br/></p><h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p><br/>Clash for Windows是一款小众但好用的代理工具，<br/><br>但在介绍这款代理工具之前，我们先要搞清楚什么是网络代理。<br/><br/><br>所谓网络代理，其本质上是一种特殊的网络服务，<br/><br>该服务可以允许两个网络终端进行非直接的连接。<br/><br>在这样的服务领域中，有一个叫做Project V的工具集合，<br/><br>该集合号称可以帮助其使用者打造专属的基础通信网络，<br/><br>而在Project V中，其最核心的一款工具就叫做V2ray。<br/><br>相对于传统的一些代理工具，例如Shadowsocks，<br/><br>V2ray的协议更完善，性能更强大，工能更丰富！<br/><br/><br>这时你也许会有需要你花费114514s处理的一个问题：<br/><br>先是网络代理，然后是Project V，再到刚刚的V2ray，<br/><br>这些东西跟你要讲的Clash for Windows有什么联系吗？<br/><br/><br>好吧，其实Clash只是基于V2ray协议实现而来的一个客户端，<br/><br>该客户端的本体是免费的，但是仅有这个客户端并没有什么用…<br/><br>因为如我所说，你必须拥有有一个自己的服务器才能使用代理，<br/><br>这个时候你可以选择自己购买一个服务器或者自己搭建一个，<br/><br>当然如果你的脸皮特别厚或者屁股特别嫩，你可以尝试白嫖？<br/><br>真可谓是亿分钱难倒天下英雄汉啊！（棒读）<br/><br><img src="/img/posts/post2_1.png"></p><p>但不要在意这么多细节，咱们事不宜迟，开始我们的安装罢！<br/><br/></p><h2 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h2><p><br/>首先我们访问500ml矿泉水瓶：<a href="https://500ml.buzz/">https://500ml.buzz/</a><br/><br>紧接着我们注册一个500ml矿泉水瓶的账号，<br/><br>然后购买自己所需要的会员订阅计划，<br/><br>这里个人推荐最便宜的那个订阅计划，<br/><br>因为如果你是访问正常的学术网站，<br/><br>你是不可能需要高达50G的月流量的！<br/><br>最后我们安装Clash for Windows，<br/><br>并按照官方的教程配置文件并打开代理，<br/><br>即可成功链接，现在你已经可以访问外网了！<br/><br/></p><h2 id="警告"><a href="#警告" class="headerlink" title="警告"></a>警告</h2><p><br/>我国是目前世界上少有的几个社会主义国家之一，<br/><br>境外存在着大量企图颠覆我国社会主义制度的反动势力，<br/><br>同时由于各国的法律不同，境外亦存在着一些淫秽色情网站。<br/><br>青少年身为社会主义的接班人，应当遵守我国有关法律，<br/><br>坚决抵制境外反动势力宣传并远离淫秽色情网站，<br/><br>仅在正常的学术研究方向使用Clash for Windows，<br/><br>享受当代信息技术带给我们的生活便利！祝好！</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>闭时曲线的碑文</title>
+    <link href="/1_%E9%97%AD%E6%97%B6%E6%9B%B2%E7%BA%BF%E7%9A%84%E7%A2%91%E6%96%87/"/>
+    <url>/1_%E9%97%AD%E6%97%B6%E6%9B%B2%E7%BA%BF%E7%9A%84%E7%A2%91%E6%96%87/</url>
+    
+    <content type="html"><![CDATA[<h1 id="致访客"><a href="#致访客" class="headerlink" title="致访客"></a>致访客</h1><p>欢迎来到我的未来机械研究所，<br/><br>在这一座由0与1构建的强大研究所里，<br/><br>我将尽可能依照一周一次更新的频率，<br/><br>分享自己在日常学习研究中的经验教训，<br/><br>以及那些可能颠覆世界构造的疯狂妄想！<br/><br/><br>同时，为了更加科学地管理这座研究所，<br/><br>我将会把更新的文章分为以下三个大类：<br/><br>[科技茶坛.number]<br/><br>[智能熔炉.number]<br/><br>[研究车间.number]<br/><br/><br>我创建这座未来机械所的初衷，<br/><br>到底是缘于自己的悲剧经历吧：<br/><br>我当时仅是空有一身科学素养，<br/><br>却没有强而有力的资料检索能力，<br/><br>导致我在学习过程中浪费了很多时间…<br/><br>至今回想起来，我依然感到万般惭愧！<br/><br/><br>但既然现在我已有能力搭建起这样一座研究所了，<br/><br>我就希望我的后来者在面对同样的困难时，<br/><br>就不会再冥思苦想，更不会再手足无措！<br/><br>最后，愿未来，从此刻开始！</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
